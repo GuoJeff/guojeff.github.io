@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeff Guo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Scientist at AstraZeneca in the Molecular AI department working on accelerated molecular design with machine learning"
   location         : "Location"
   employer         :
   pubmed           : ""
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/GuoJeff"
+  github           : "GuoJeff"
   google_plus      :
   keybase          :
   instagram        :
