@@ -26,4 +26,4 @@ I am a 1st year PhD student advised by Professor Philippe Schwaller at École Po
 * *April 25, 2022* - Pre-print for Link-INVENT: Generative Linker Design with Reinforcement Learning out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
 
 
-* *Nov. 17, 2022* - Paper on DockStream: optimizing molecular docking scores in generative models out in *Journal of Cheminformatics*. Check out the paper [here](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7)!
+* *Nov. 17, 2021* - Paper on DockStream: optimizing molecular docking scores in generative models out in *Journal of Cheminformatics*. Check out the paper [here](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7)!
