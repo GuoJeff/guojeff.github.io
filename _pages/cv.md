@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * PhD in Chemistry and Chemical Engineering, <i>EPFL</i>, 2022-2026 (expected)
 * MRes in Drug Discovery and Development, <i>Imperial College London</i>, 2020
 * BSc in Chemistry, <i>McGill University</i>, 2019
+
+
 
 Research Experience
 ======
@@ -34,14 +38,20 @@ Research Experience
 * <b>Research Assistant - Green Chemistry</b> May 2017 - April 2018
   * Chao-Jun Li group, McGill University
   
+
+
 Research Interests
 ======
 * Molecular generative models for drug and catalyst design
 * Bayesian optimization for chemical reaction optimization and discovery
 
+
+
 Theses Supervised
 ======
 * <b>2022</b> \| Christian Josefson & Clara Nyman, '22 MSc Computer Science and Engineering, *Chalmers University of Technology*, [Link](https://odr.chalmers.se/server/api/core/bitstreams/356f3738-b743-4c5a-ab5e-233503f69024/content)
+
+
 
 Publications
 ======
