@@ -12,4 +12,4 @@ Link-INVENT is an extension of REINVENT (generative molecular design with reinfo
 
 [Paper Link](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31)
 
-Recommended Citation: J. Guo§, F. Knuth§, C. Margreitter, J. P. Janet, K. Papadopoulos, O. Engkvist, A. Patronov “Link-INVENT: Generative Linker Design with Reinforcement Learning”, 2022
+Recommended Citation: J. Guo<sup>§</sup>, F. Knuth<sup>§</sup>, C. Margreitter, J. P. Janet, K. Papadopoulos, O. Engkvist, A. Patronov “Link-INVENT: Generative Linker Design with Reinforcement Learning”, 2022
