@@ -20,7 +20,6 @@ I am a 1st year PhD student advised by Professor Philippe Schwaller at École Po
 * *Sep. 1, 2022* - Started my PhD with [Philippe Schwaller](https://schwallergroup.github.io/) at EPFL!
 
 
-
 * *June 22, 2022* - Paper on applying curriculum learning for generative molecular design out in *Nature Machine Intelligence*. Check it out [here](https://www.nature.com/articles/s42256-022-00494-4)!
 
 
