@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jeff Guo"
 title_separator          : "-"
 name                     : &name "Jeff Guo"
 description              : &description "personal description"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Guo"
-  avatar           : "profile.png"
-  bio              : "Accelerated molecular design with machine learning"
-  location         : "Location"
+  avatar           : "Jeff Guo Headshot.png"
+  bio              : "Data-driven molecular design and chemical reaction optimization"
+  location         :
   employer         :
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yzhfk_YAAAAJ&hl=en"
-  email            :
+  email            : "jeff.guo@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
