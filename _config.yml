@@ -13,7 +13,7 @@ name                     : &name "Jeff Guo"
 description              : &description "personal description"
 url                      : https://guojeff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "guojeff/guojeff.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Guo"
-  avatar           : "/images/Jeff-Guo-Headshot.png"
+  avatar           : "Jeff-Guo-Headshot.png"
   bio              : "Data-driven molecular design and chemical reaction optimization"
   location         :
   employer         :
@@ -211,7 +211,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: "https://guojeff.github.io/teaching/"
+      path: ""
       type: teaching
     values:
       layout: single
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "https://guojeff.github.io/publications/"
+      path: ""
       type: publications
     values:
       layout: single
