@@ -14,7 +14,7 @@ I am a 1st year PhD student advised by Professor Philippe Schwaller at École Po
 * *Nov. 1, 2022* - Paper on Icolos: workflow manager to automate computational chemistry calculations out in *Bioinformatics*. Check out the paper [here](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext)!
 
 
-* *Oct. 3, 2022* - Wrote a Jupyter notebook walkthrough for [REINVENT](https://github.com/MolecularAI/Reinvent) (SMILES-based molecular generative model) as part of an awesome [deep learning for chemistry](https://github.com/rociomer/dl-chem-101) educational repository by [Professor Rocío Mercado](https://rociomer.github.io/). Check out the tutorial [here](https://github.com/rociomer/dl-chem-101/blob/main/03_gen_SMILES_LSTM/SMILES-LSTM-Walkthrough.ipynb)!
+* *Oct. 3, 2022* - I wrote a Jupyter notebook walkthrough for [REINVENT](https://github.com/MolecularAI/Reinvent) (SMILES-based molecular generative model) as part of an awesome [deep learning for chemistry](https://github.com/rociomer/dl-chem-101) educational repository by [Professor Rocío Mercado](https://rociomer.github.io/). Check out the tutorial [here](https://github.com/rociomer/dl-chem-101/blob/main/03_gen_SMILES_LSTM/SMILES-LSTM-Walkthrough.ipynb)!
 
 
 * *Sep. 1, 2022* - Started my PhD with [Philippe Schwaller](https://schwallergroup.github.io/) at EPFL!
