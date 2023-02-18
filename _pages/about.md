@@ -11,6 +11,9 @@ redirect_from:
 I am a 1st year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
 
 # News
+* *Feb. 4, 2023* - Our paper on extending Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b)!
+
+
 * *Nov. 1, 2022* - Our paper on Icolos: workflow manager to automate computational chemistry calculations out in *Bioinformatics*. Check out the paper [here](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext)!
 
 
