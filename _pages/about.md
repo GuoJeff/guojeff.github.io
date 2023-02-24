@@ -14,7 +14,7 @@ I am a 1st year PhD student advised by Professor Philippe Schwaller at École Po
 * *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in *CHIMIA*. Check out the paper [here](https://chimia.ch/chimia/article/view/2023_31/2023_31)!
 
 
-* *Feb. 4, 2023* - Our paper on extending Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b)!
+* *Feb. 4, 2023* - Our paper on Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b)!
 
 
 * *Nov. 1, 2022* - Our paper on Icolos: workflow manager to automate computational chemistry calculations out in *Bioinformatics*. Check out the paper [here](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext)!
