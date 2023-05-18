@@ -11,6 +11,9 @@ redirect_from:
 I am a 1st year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
 
 # News
+* *May 17, 2023* - Our pre-print on Augmented Memory to improve sample efficiency in molecular generative models is out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/6464dc3ea32ceeff2dcbd948) and the code [here](https://github.com/schwallergroup/augmented_memory)!
+
+
 * *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in *CHIMIA*. Check out the paper [here](https://chimia.ch/chimia/article/view/2023_31/2023_31)!
 
 
@@ -29,7 +32,7 @@ I am a 1st year PhD student advised by Professor Philippe Schwaller at École Po
 * *June 22, 2022* - Our paper on applying curriculum learning for generative molecular design out in *Nature Machine Intelligence*. Check out the paper [here](https://www.nature.com/articles/s42256-022-00494-4) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)!
 
 
-* *April 25, 2022* - Our Pre-print for Link-INVENT: Generative Linker Design with Reinforcement Learning out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
+* *April 25, 2022* - Our pre-print for Link-INVENT: Generative Linker Design with Reinforcement Learning out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
 
 
 * *Nov. 17, 2021* - Our paper on DockStream: optimizing molecular docking scores in generative models out in *Journal of Cheminformatics*. Check out the paper [here](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7)!
