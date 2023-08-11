@@ -38,7 +38,7 @@ Research Interests
 ======
 * Molecular generative models for drug and catalyst design
 * Bayesian optimization for chemical reaction optimization and discovery
-* Deep learning for molecular energy minimization
+* Deep learning for molecular conformation prediction
 
 Theses Supervised
 ======
