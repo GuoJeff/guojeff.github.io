@@ -17,8 +17,12 @@ Education
 
 Research Experience
 ======
+* <b>Research Intern</b>, Oct. 2023 - present
+  * Microsoft AI4Science, Amsterdam
+
 * <b>PhD Researcher</b>, Sep. 2022 - present
   * Schwaller LIAC group, EPFL
+  
 * <b>Cheminformatics Graduate Scientist</b> Sep. 2020 - July 2022
   * Molecular AI team, Ola Engkvist, AstraZeneca
 
