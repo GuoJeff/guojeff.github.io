@@ -13,7 +13,7 @@ redirect_from:
  I am a 1st year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
 
 # News
-* *Oct. 24, 2023* - Check out a post about our paper [Augmented Memory] (https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) featured on the Valence Labs blogs [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7)! In addition to discussing Augmented Memory, a perspective on language-based models for generative design is shared.
+* *Oct. 24, 2023* - Check out a post about our paper [Augmented Memory](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) featured on the Valence Labs blogs [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7)! In addition to discussing Augmented Memory, a perspective on language-based models for generative design is shared.
 
 
 * *Sep. 26, 2023* - Our pre-print on extracting probable molecular substructures from molecular generative models for explainability and sample efficiency is out on ArXiv. Check out the paper [here](https://arxiv.org/abs/2309.13957)!
