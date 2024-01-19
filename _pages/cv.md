@@ -17,7 +17,7 @@ Education
 
 Research Experience
 ======
-* <b>Research Intern</b>, Oct. 2023 - present
+* <b>Research Intern</b>, Oct. 2023 - Jan. 2024
   * Microsoft AI4Science, Amsterdam
 
 * <b>PhD Researcher</b>, Sep. 2022 - present
