@@ -18,9 +18,6 @@ redirect_from:
 * *Oct. 24, 2023* - Check out a blog post about our paper [Augmented Memory](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) featured on the Valence Labs blogs [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7)! In addition to discussing Augmented Memory, a perspective on language-based models for generative design is shared.
 
 
-* *Sep. 26, 2023* - Our pre-print on extracting probable molecular substructures from molecular generative models for explainability and sample efficiency is out on ArXiv. Check out [Beam Enumeration](https://arxiv.org/abs/2309.13957)!
-
-
 * *Aug. 8, 2023* - Our pre-print on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/64d0db394a3f7d0c0dc103df)!
 
 
