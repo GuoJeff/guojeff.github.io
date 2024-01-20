@@ -12,7 +12,7 @@ redirect_from:
 
 
 # News
-* *Jan. 16, 2024* - Our paper on [Beam Enumeration](https://openreview.net/forum?id=7UhxsmbdaQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) was accepted to [ICLR 2024] (https://iclr.cc/) and previously also [NeurIPS 2023 AI4Science Workshop] (https://ai4sciencecommunity.github.io/neurips23.html)!
+* *Jan. 16, 2024* - Our paper on [Beam Enumeration](https://openreview.net/forum?id=7UhxsmbdaQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) was accepted to [ICLR 2024](https://iclr.cc/) and previously also [NeurIPS 2023 AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips23.html)!
 
 
 * *Oct. 24, 2023* - Check out a blog post about our paper [Augmented Memory](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) featured on the Valence Labs blogs [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7)! In addition to discussing Augmented Memory, a perspective on language-based models for generative design is shared.
