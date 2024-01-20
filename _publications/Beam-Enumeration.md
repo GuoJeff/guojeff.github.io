@@ -12,4 +12,4 @@ Here, we show that extracting molecular substructures from molecular generative 
 
 [Paper Link](https://arxiv.org/abs/2309.13957)
 
-Recommended Citation: J. Guo, P. Schwaller “Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design”, <i>ArXiv</i>, 2023.
+Recommended Citation: J. Guo, P. Schwaller “Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design”, <i>ICLR</i>, 2024.
