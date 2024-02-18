@@ -44,7 +44,7 @@ Research Interests
 * Bayesian optimization for chemical reaction optimization and discovery
 * Deep learning for molecular conformation prediction
 
-Theses Supervised
+Theses Co-supervised
 ======
 * <b>2022</b> \| Christian Josefson & Clara Nyman, '22 MSc Computer Science and Engineering, *Chalmers University of Technology*, [Link](https://odr.chalmers.se/server/api/core/bitstreams/356f3738-b743-4c5a-ab5e-233503f69024/content)
 
