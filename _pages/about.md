@@ -12,7 +12,7 @@ redirect_from:
 
 
 # News
-* Our paper on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out in *Chemical Science*. Check out the paper [here](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D3SC04653B)!
+* Our paper on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out in [Chemical Science](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D3SC04653B).
 
 
 * *Jan. 16, 2024* - Our paper on [Beam Enumeration](https://openreview.net/forum?id=7UhxsmbdaQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) was accepted to [ICLR 2024](https://iclr.cc/) and previously also [NeurIPS 2023 AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips23.html)!
@@ -24,13 +24,13 @@ redirect_from:
 * *May 22, 2023* - Our pre-print on Augmented Memory to improve sample efficiency in molecular generative models is out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) and the code [here](https://github.com/schwallergroup/augmented_memory)!
 
 
-* *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in *CHIMIA*. Check out the paper [here](https://chimia.ch/chimia/article/view/2023_31/2023_31)!
+* *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in [CHIMIA](https://chimia.ch/chimia/article/view/2023_31/2023_31).
 
 
 * *Feb. 4, 2023* - Our paper on Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b)!
 
 
-* *Nov. 1, 2022* - Our paper on Icolos: workflow manager to automate computational chemistry calculations out in *Bioinformatics*. Check out the paper [here](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext)!
+* *Nov. 1, 2022* - Our paper on Icolos: workflow manager to automate computational chemistry calculations out in [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext).
 
 
 * *Oct. 3, 2022* - I wrote a Jupyter notebook walkthrough for [REINVENT](https://github.com/MolecularAI/Reinvent) (SMILES-based molecular generative model) as part of an awesome [deep learning for chemistry](https://github.com/rociomer/dl-chem-101) educational repository by [Professor Rocío Mercado](https://rociomer.github.io/). Check out the tutorial [here](https://github.com/rociomer/dl-chem-101/blob/main/03_gen_SMILES_LSTM/SMILES-LSTM-Walkthrough.ipynb)!
@@ -39,10 +39,10 @@ redirect_from:
 * *Sep. 1, 2022* - Started my PhD with [Philippe Schwaller](https://schwallergroup.github.io/) at EPFL!
 
 
-* *June 22, 2022* - Our paper on applying curriculum learning for generative molecular design out in *Nature Machine Intelligence*. Check out the paper [here](https://www.nature.com/articles/s42256-022-00494-4) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)!
+* *June 22, 2022* - Our paper on applying curriculum learning for generative molecular design is out in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00494-4). Check out the Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)!
 
 
 * *April 25, 2022* - Our pre-print for Link-INVENT: Generative Linker Design with Reinforcement Learning out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
 
 
-* *Nov. 17, 2021* - Our paper on DockStream: optimizing molecular docking scores in generative models out in *Journal of Cheminformatics*. Check out the paper [here](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7)!
+* *Nov. 17, 2021* - Our paper on DockStream: optimizing molecular docking scores in generative models out in [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7).
