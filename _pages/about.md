@@ -12,9 +12,9 @@ redirect_from:
 
 
 # News
-* *April 10, 2024* Augmented Memory has been published in [JACS Au](https://pubs.acs.org/doi/10.1021/jacsau.4c00066)! Check out a blog post about the paper [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7). Augmented Memory can achieve sample-efficient molecular generation optimized for docking and quantum-mechanical properties!
+* *April 10, 2024* - Augmented Memory has been published in [JACS Au](https://pubs.acs.org/doi/10.1021/jacsau.4c00066)! Check out a blog post about the paper [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7). Augmented Memory can achieve sample-efficient molecular generation optimized for docking and quantum-mechanical properties!
 
-* *Feb. 8, 2024* Our paper on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out in [Chemical Science](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D3SC04653B).
+* *Feb. 8, 2024* - Our paper on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out in [Chemical Science](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D3SC04653B).
 
 
 * *Jan. 16, 2024* - Our paper on [Beam Enumeration](https://openreview.net/forum?id=7UhxsmbdaQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) was accepted to [ICLR 2024](https://iclr.cc/) and previously also [NeurIPS 2023 AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips23.html)!
