@@ -23,7 +23,7 @@ redirect_from:
 * *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in [CHIMIA](https://chimia.ch/chimia/article/view/2023_31/2023_31).
 
 
-* *Feb. 4, 2023* - Our paper on Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b)!
+* *Feb. 4, 2023* - Our paper on Link-INVENT for generative chemical linker design is out in *Digital Discovery*. Check out the paper [here](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00115b) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
 
 
 * *Nov. 1, 2022* - Our paper on Icolos: workflow manager to automate computational chemistry calculations out in [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/38/21/4951/6694041?redirectedFrom=fulltext).
@@ -36,9 +36,6 @@ redirect_from:
 
 
 * *June 22, 2022* - Our paper on applying curriculum learning for generative molecular design is out in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00494-4). Check out the Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Automated_Curriculum_Learning_Demo.ipynb)!
-
-
-* *April 25, 2022* - Our pre-print for Link-INVENT: Generative Linker Design with Reinforcement Learning out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/62628b2debac3a61c7debf31) and a Jupyter notebook example [here](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Link-INVENT_RL.ipynb)!
 
 
 * *Nov. 17, 2021* - Our paper on DockStream: optimizing molecular docking scores in generative models out in [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00563-7).
