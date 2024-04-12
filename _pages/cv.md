@@ -46,6 +46,8 @@ Research Interests
 
 Theses Co-supervised
 ======
+* <b>2023</b> \| Sacha Raffaud, '23 MSc Applied Computational Science and Engineering, *Imperial College London*, [Link](https://neurips.cc/virtual/2023/74839)
+
 * <b>2022</b> \| Christian Josefson & Clara Nyman, '22 MSc Computer Science and Engineering, *Chalmers University of Technology*, [Link](https://odr.chalmers.se/server/api/core/bitstreams/356f3738-b743-4c5a-ab5e-233503f69024/content)
 
 Publications

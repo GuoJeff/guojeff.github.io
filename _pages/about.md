@@ -12,16 +12,12 @@ redirect_from:
 
 
 # News
+* *April 10, 2024* Augmented Memory has been published in [JACS Au](https://pubs.acs.org/doi/10.1021/jacsau.4c00066)! Check out a blog post about the paper [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7). Augmented Memory can achieve sample-efficient molecular generation optimized for docking and quantum-mechanical properties!
+
 * Our paper on combining active learning with reinforcement learning to improve sample efficiency in molecular generative models is out in [Chemical Science](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D3SC04653B).
 
 
 * *Jan. 16, 2024* - Our paper on [Beam Enumeration](https://openreview.net/forum?id=7UhxsmbdaQ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) was accepted to [ICLR 2024](https://iclr.cc/) and previously also [NeurIPS 2023 AI4Science Workshop](https://ai4sciencecommunity.github.io/neurips23.html)!
-
-
-* *Oct. 24, 2023* - Check out a blog post about our paper [Augmented Memory](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) featured on the Valence Labs blogs [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7)! In addition to discussing Augmented Memory, a perspective on language-based models for generative design is shared.
-
-
-* *May 22, 2023* - Our pre-print on Augmented Memory to improve sample efficiency in molecular generative models is out on ChemRxiv. Check out the paper [here](https://chemrxiv.org/engage/chemrxiv/article-details/646a353da32ceeff2d014776) and the code [here](https://github.com/schwallergroup/augmented_memory)!
 
 
 * *Feb. 22, 2023* - Our review paper on Bayesian optimization for chemical reactions is out in [CHIMIA](https://chimia.ch/chimia/article/view/2023_31/2023_31).
