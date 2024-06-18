@@ -40,15 +40,17 @@ Research Experience
   
 Research Interests
 ======
-* Molecular generative models for drug and catalyst design
+* Sample-efficient molecular generative models for drug and catalyst design
+* Deep learning for molecular conformation generation
 * Bayesian optimization for chemical reaction optimization and discovery
-* Deep learning for molecular conformation prediction
 
-Theses Co-supervised
+Supervision
 ======
-* <b>2023</b> \| Sacha Raffaud, '23 MSc Applied Computational Science and Engineering, *Imperial College London*, [Link](https://neurips.cc/virtual/2023/74839)
+* <b>2024</b> \| Rémi Schlama - Internship, '24 MSc Chemistry, *EPFL*
 
-* <b>2022</b> \| Christian Josefson & Clara Nyman, '22 MSc Computer Science and Engineering, *Chalmers University of Technology*, [Link](https://odr.chalmers.se/server/api/core/bitstreams/356f3738-b743-4c5a-ab5e-233503f69024/content)
+* <b>2023</b> \| Sacha Raffaud - MSc Thesis, '23 MSc Applied Computational Science and Engineering, *Imperial College London*, [Link](https://neurips.cc/virtual/2023/74839)
+
+* <b>2022</b> \| Christian Josefson & Clara Nyman - MSc Thesis, '22 MSc Computer Science and Engineering, *Chalmers University of Technology*, [Link](https://odr.chalmers.se/server/api/core/bitstreams/356f3738-b743-4c5a-ab5e-233503f69024/content)
 
 Publications
 ======

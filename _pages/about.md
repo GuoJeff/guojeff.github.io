@@ -12,6 +12,9 @@ redirect_from:
 
 
 # News
+
+* *June 18, 2024* - Our review on generative molecular design for small molecule drug discovery is out in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00843-5)! It is a particularly exciting time for the field as experimental validation is gradually becoming more common!
+
 * *May 28, 2024* - We release Saturn, which is a framework for sample-efficient molecular generative design using the [Mamba](https://arxiv.org/abs/2312.00752) architecture! Check out the pre-print [here](https://arxiv.org/abs/2405.17066). With Saturn, our aspiration is to unlock the ability to *directly* optimize high-fidelity oracles!
 
 * *April 10, 2024* - Augmented Memory has been published in [JACS Au](https://pubs.acs.org/doi/10.1021/jacsau.4c00066)! Check out a blog post about the paper [here](https://portal.valencelabs.com/blogs/post/augmented-memory-capitalizing-on-experience-replay-to-accelerate-50PTYk6kaVyM0q7). Augmented Memory can achieve sample-efficient molecular generation optimized for docking and quantum-mechanical properties!

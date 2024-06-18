@@ -6,7 +6,7 @@ excerpt: "Review on Bayesian optimization for chemical reactions."
 date: 2023-02-22
 venue: 'CHIMIA'
 paperurl: <a href='https://chimia.ch/chimia/article/view/2023_31/2023_31'>Paper Link</a>
-citation: 'J. Guo<sup>§</sup>, B. Rankovicć<sup>§</sup>, P. Schwaller “Bayesian Optimization for Chemical Reactions”, <i>CHIMIA</i>, 2023, 77, 31-38.'
+citation: 'J. Guo<sup>§</sup>, B. Ranković<sup>§</sup>, P. Schwaller “Bayesian Optimization for Chemical Reactions”, <i>CHIMIA</i>, 2023, 77, 31-38.'
 ---
 Review article on Bayesian optimization for chemical reactions.
 
