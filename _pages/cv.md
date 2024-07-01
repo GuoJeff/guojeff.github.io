@@ -29,7 +29,7 @@ Research Experience
 * <b>Research Assistant - Chemical Biology</b> Nov. 2019 - Sep. 2020
   * Ed Tate group, Imperial College London
 
-* <b>Drug Innovation Intern</b> May 2018 - Sep. 2018
+* <b>Drug Innovation Intern</b> May 2019 - Sep. 2019
   * Drug Innovation team, Muthiah Manoharan, Alnylam Pharmaceuticals
 
 * <b>Research Assistant - Nucleic Acid Chemistry</b> May 2018 - Sep. 2018
