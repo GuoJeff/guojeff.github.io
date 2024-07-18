@@ -12,6 +12,8 @@ redirect_from:
 
 
 # News
+* *July 18, 2024* - Check out an extension of [Saturn](https://arxiv.org/abs/2405.17066) showing that goal-directed molecular generation can **directly** optimize for synthesizability using retrosynthesis models! [Pre-print](https://arxiv.org/abs/2407.12186v1)
+
 
 * *June 18, 2024* - Our review on generative molecular design for small molecule drug discovery is out in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00843-5)! It is a particularly exciting time for the field as experimental validation is gradually becoming more common!
 
