@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
- I am a 2nd year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I interned at [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) in Amsterdam. Before that, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
+ I am a 3rd year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I interned at [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) in Amsterdam. Before that, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
 
 
 # News
+* *Oct. 15, 2024* - Check out another extension of [Saturn](https://arxiv.org/abs/2405.17066) showing that goal-directed molecular generation can **directly** optimize for **constrained** synthesizability using retrosynthesis models! Our method can perform multi-parameter optimization while generating molecules with valid retrosynthesis routes **with the presence of enforced building blocks!** [Pre-print](https://arxiv.org/abs/2410.11527)
+
 * *July 18, 2024* - Check out an extension of [Saturn](https://arxiv.org/abs/2405.17066) showing that goal-directed molecular generation can **directly** optimize for synthesizability using retrosynthesis models! [Pre-print](https://arxiv.org/abs/2407.12186v1)
 
 
