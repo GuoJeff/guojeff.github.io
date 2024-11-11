@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Chemistry and Chemical Engineering, <i>EPFL</i>, 2022-2026 (expected)
+* PhD in Chemistry and Chemical Engineering, <i>EPFL</i>, 2022-2025 (expected)
 * MRes in Drug Discovery and Development, <i>Imperial College London</i>, 2020
 * BSc in Chemistry, <i>McGill University</i>, 2019
 
@@ -41,11 +41,13 @@ Research Experience
 Research Interests
 ======
 * Sample-efficient molecular generative models for drug and catalyst design
-* Deep learning for molecular conformation generation
+* Synthesizable molecular generative design
 * Bayesian optimization for chemical reaction optimization and discovery
 
 Supervision
 ======
+* <b>2024</b> \| Victoire Lang - Internship, '25 BSc Chemistry, *EPFL* [Link](https://openreview.net/forum?id=Yqc95PDN7h)
+
 * <b>2024</b> \| Rémi Schlama - Internship, '24 MSc Chemistry, *EPFL*
 
 * <b>2023</b> \| Sacha Raffaud - MSc Thesis, '23 MSc Applied Computational Science and Engineering, *Imperial College London*, [Link](https://neurips.cc/virtual/2023/74839)
