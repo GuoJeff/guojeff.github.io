@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a 3rd year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), applying data-driven methods for accelerated chemical discovery. Previously, I interned at [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) in Amsterdam. Before that, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
+ I am a 3rd year PhD student advised by Professor Philippe Schwaller at École Polytechnique Fédérale de Lausanne ([EPFL](https://github.com/schwallergroup)), developing molecular generative models for accelerated drug discovery. Previously, I interned at [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) in Amsterdam. Before that, I was a cheminformatics researcher in the [Molecular AI team](https://github.com/MolecularAI) with Professor Ola Engkvist at AstraZeneca where I developed generative models for molecular design. My undergraduate degree was in chemistry, inspiring my research to harness domain expertise to augment machine learning methods for chemical discovery.
 
 
 # News
